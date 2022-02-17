@@ -6,5 +6,3 @@
 - 🔭 I’m currently working as a Flutter developer for Bavest Technology.
 - 📫 How to reach me:
   - write me an email at mosala7.me@gmail.com or at [LINKEDIN](https://www.linkedin.com/in/msala77)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSala7&layout=compact&count_private=false)](https://mosala7.github.io/)
